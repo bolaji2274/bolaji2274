@@ -6,8 +6,9 @@ Vuejs, Nodejs, MySQL, JavaScript, Python
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ... Terraform, Docker, Docker-Compose, Ansible
-- 🌱 I’m currently learning ... Terraform, AWS, Ansible
+
  <!--
+- 🌱 I’m currently learning ... Terraform, AWS, Ansible
 -  
 - 👯 I’m looking to collaborate on ... Te  
 - 🤔 I’m looking for help with ...
