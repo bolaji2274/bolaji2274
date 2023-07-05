@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - -->
 <p align="center">
 <a href="https://github.com/bolaji2274">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Bolaji+Hammed;DevOps+Enginnering+%7C+BS+Student+%7C+Software+Development;Bots+%7C+Automation+%7C+APIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=I+am+Bolaji+Hammed;DevOps+Enginner+%7C+Infrastructure+Engineer+%7C+Site+Reliability+Engineer" alt="Typing SVG" />
 </a>
 <br/>
 <!--
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Website-Portfolio-red?style=flat-square">
 </a>  
  -->
-<a href="https://www.linkedin.com/in/alan-njogu">
+<a href="https://www.linkedin.com/in/bolaji-hammed-aa9010234/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:hammedbolajihammed@gmail.com">
