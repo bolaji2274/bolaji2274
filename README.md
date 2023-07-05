@@ -6,7 +6,7 @@ Vuejs, Nodejs, MySQL, JavaScript, Python
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ... Terraform, Docker, Docker-Compose, Ansible
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bolaji2274)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bolaji2274&theme=gruvbox-duo)](https://git.io/streak-stats)
  <!--
 - 🌱 I’m currently learning ... Terraform, AWS, Ansible
 -  
