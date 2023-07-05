@@ -12,6 +12,12 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=bolaji2274&theme=gruvbox-duo)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bolaji2274)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolaji2274)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolaji2274&size_weight=0.5&count_weight=0.5)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolaji2274&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
  <!--
 - 🌱 I’m currently learning ... Terraform, AWS, Ansible
 -  
