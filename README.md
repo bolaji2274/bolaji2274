@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bolaji2274&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bolaji2274&theme=gruvbox-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bolaji2274)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bolaji2274)](https://github.com/anuraghazra/github-readme-stats)
 
