@@ -29,6 +29,11 @@ Here are some ideas to get you started:
     <img src="https://github-stats-alpha.vercel.app/api?username=bolaji2274&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 </p>
+ <br>
+<h3>Profile Views</h3>
+ <p align="left"> <img src="https://profile-counter.glitch.me/bolaji2274/count.svg" alt="desphixs" /> </p>
+ 
+ </br>
 <!--
 ### Sample Projects
 <a href="https://github.com/bolaji2274/al-halal-rabbit-farm">
