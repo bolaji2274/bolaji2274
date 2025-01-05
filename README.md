@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - -->
 <p align="center">
 <a href="https://github.com/bolaji2274">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2500&pause=150&multiline=true&width=600&height=90&lines=I+am+Bolaji+Hammed;DevOps+Enginner+%7C+Infrastructure+Engineer+%7C+Site+Reliability+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2500&pause=150&multiline=true&width=600&height=90&lines=I+am+Bolaji+Hammed;Full+Stack+Developer+%7C+DevOps+Enginner+%7C+AWS+Proffessional" alt="Typing SVG" />
 </a>
 <br/>
 <!--
